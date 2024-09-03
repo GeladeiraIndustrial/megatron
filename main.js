@@ -6,21 +6,21 @@ const caixaTexto = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
-        alternativas: ["aternativa1","alternativa2","alternativa3"]
+        enunciado: "Quando descobriram o Brasil ?",
+        alternativas: ["1500","1400","1200"]
     },
     {
-        enunciado: "Pergunta 2",
-        alternativas: ["aternativa1","alternativa2","alternativa3"]
+        enunciado: "Qual a data da independência do Brasil ?",
+        alternativas: ["07 de setembro","15 de novembro","21 de abril"]
     },
     {
-        enunciado: "Pergunta 3",
-        alternativas: ["alternativa1","alternativa2","alternativa3"]
+        enunciado: "Qual a data da proclamação da república ?",
+        alternativas: ["15 de novembro","07 de agosto","15 de julho"]
     
     },    
     {
-        enunciado: "Pergunta 3",
-        alternativas: ["alternativa1","alternativa2","alternativa3"]
+        enunciado: "Quem foi o primeiro presidente do Brasil ?",
+        alternativas: ["Dom Pedro","Deodoro da Fonscenca","Jair Messias Bolsonaro"]
     },    
 
 
